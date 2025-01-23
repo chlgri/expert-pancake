@@ -8,7 +8,6 @@
 # hide 
 raw-data/*
 markdown.Rmd
-images/*
 
 # History files
 .Rhistory
