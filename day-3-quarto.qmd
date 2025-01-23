@@ -5,22 +5,10 @@ format: html
 editor: visual
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# HELLO . ݁₊ ⊹ . ݁˖ . ݁ \| ⋆ ˚｡⋆୨୧˚ \| ✧˖°.
 
 ```{r}
 
 ```
 
-You can add options to executable code like this
-
-```{r}
-
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20wdTE5Z2l4YTM2NnBiM3k1ZTR2NHl2aHNyajdwYzU5cG5kemVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mLZ6kvGkH31z0BAKUX/giphy.gif)
