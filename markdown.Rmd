@@ -1,0 +1,11 @@
+---
+title: "day-3"
+author: "chloe griffiths"
+date: "2025-01-23"
+output: pdf_document
+---
+
+```{chunk 1 }
+
+
+```
