@@ -6,6 +6,7 @@
 
 # hide 
 raw-data/*
+markdown.Rmd
 
 # History files
 .Rhistory
