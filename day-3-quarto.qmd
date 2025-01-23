@@ -7,8 +7,19 @@ editor: visual
 
 # HELLO . ݁₊ ⊹ . ݁˖ . ݁ \| ⋆ ˚｡⋆୨୧˚ \| ✧˖°.
 
-```{r}
+## I am cat sitting two cats this week...
 
-```
+![](images/IMG_7550.jpeg)
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20wdTE5Z2l4YTM2NnBiM3k1ZTR2NHl2aHNyajdwYzU5cG5kemVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mLZ6kvGkH31z0BAKUX/giphy.gif)
+## Their names are...
+
+# LEELOO
+
+![](images/IMG_7577.jpeg)
+
+## and
+
+# PARKER 
+![](images/IMG_7568.jpeg)
+
+They love to hang out with me and sit on my laptop :) 
